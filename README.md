@@ -9,7 +9,4 @@ Hi there 👋<br><br>I am currently studying Computer Engineering in college and
 ![](https://streak-stats.demolab.com/?user=Sinaruu&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sinaruu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Sinaruu&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
